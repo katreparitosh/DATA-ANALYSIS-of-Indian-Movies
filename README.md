@@ -34,7 +34,7 @@ I analysed a dataset of Indian Movies primarily Hindi Movies.
       - Who are the best rated stars?
       
 ## Statistical Concepts used : 
-- Understanding inferences from the outliers.
-- IQR(Inter-quartile range
+- Getting inferences from the outliers using IQR.
+- IQR(Inter-quartile range)
 - Skewness
 - Median being used as a better average than mean.
