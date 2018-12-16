@@ -6,7 +6,7 @@ I analysed a dataset of Indian Movies primarily Hindi Movies.
 - Pandas
 - Numpy
 - Matplotlib
-- fivethirtyeight : A style which is creates similar plots as that of [FiveThirtyEight](https://fivethirtyeight.com/).
+- fivethirtyeight : A style which creates similar plots as that of [FiveThirtyEight](https://fivethirtyeight.com/).
 
 ## Questions tackled :
 - Basic Exploration of Dataset.
