@@ -11,10 +11,10 @@ I analysed a dataset of Indian Movies primarily Hindi Movies.
 ## Questions tackled :
 - Basic Exploration of Dataset.
     - Distribution of Ratings.
-    - Gross collection of US and in India.
+    - Gross collection in US and India.
     - Popularity of Genres.
     - Unique Stars and the number of roles they played.
-    - Unique directors and the number of movies they director.
+    - Unique directors and the number of movies they directed.
      
      
  - Factors affecting movie performance, based upon hypothesis.
@@ -38,5 +38,3 @@ I analysed a dataset of Indian Movies primarily Hindi Movies.
 - IQR(Inter-quartile range
 - Skewness
 - Median being used as a better average than mean.
-
-
